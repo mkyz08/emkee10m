@@ -49,6 +49,18 @@ make emkee10m:default:avrdude
 - Pro Micro にファームウェアを書き込む
 
 
+## ライセンス
+
+MITライセンス
+
+footprintは以下を利用しています。
+
+- https://github.com/foostan/kbd
+
+Copyright (c) 2018 foostan
+
+MITライセンス
+
 
 ## リリースノート
 
